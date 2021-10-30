@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-# machine-learning-credit-risk 
-=======
+
 # machine-learning-credit-risk
->>>>>>> deeb23b6d70da4f0d2de2c8b7722723873bff52e
 
 # Supervised Machine Learning Homework - Predicting Credit Risk
 
